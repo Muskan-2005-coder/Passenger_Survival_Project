@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction (ML Project - Random Forest)
+# 🚢 Titanic Survival Prediction 
 
 Predict survival chances of Titanic passengers using Machine Learning. This project performs extensive **data preprocessing** and **feature engineering** to make predictions.
 
