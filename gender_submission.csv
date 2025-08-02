@@ -1,4 +1,4 @@
-PassengerId,Survived
+PassengerId, Survived
 892,0
 893,1
 894,0
@@ -417,3 +417,4 @@ PassengerId,Survived
 1307,0
 1308,0
 1309,0
+
