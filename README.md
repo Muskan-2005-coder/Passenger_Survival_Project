@@ -1,6 +1,6 @@
 # 🚢 Passenger Survival Prediction using Machine Learning
 
-This project implements a machine learning pipeline to predict survival on the Titanic. The solution is based on detailed feature engineering and exploratory data analysis using the classic Titanic dataset from Kaggle.
+This project implements a machine learning pipeline to predict passenger survival on the Titanic dataset. The solution is based on detailed feature engineering and exploratory data analysis using the classic Titanic dataset from Kaggle.
 
 ---
 
